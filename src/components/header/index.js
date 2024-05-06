@@ -223,7 +223,7 @@ export const Header = () => {
 
         <div className="mx-auto flex flex-col gap-1mt-10 ">
           <Typography className="text-xl text-black  flex items-center justify-center my-8">
-            Summa : <span className="text-2xl">{totalPrice}</span>
+            Summa : <span className="text-2xl">{totalPrice} so'm</span>
           </Typography>
           <Button
             onClick={() => {
